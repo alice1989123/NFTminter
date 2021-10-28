@@ -1,0 +1,6 @@
+cardano-node run \
+   --topology /home/alice/cardano-src/cardano-node/testnet-topology.json \
+   --database-path /home/alice/cardano-src/cardano-node/db \
+   --socket-path /home/alice/cardano-src/cardano-node/db/node.socket \
+   --port 3001 \
+   --config /home/alice/cardano-src/cardano-node/testnet-config.json
