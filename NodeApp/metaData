@@ -1,0 +1,12 @@
+{
+    "721": {
+        "please_insert_policyID_here": {
+          "NFT1": {
+            "description": "This is my first NFT thanks to the Cardano foundation",
+            "name": "Cardano foundation NFT guide token",
+            "id": 1,
+            "image": ""
+          }
+        }
+    }
+}

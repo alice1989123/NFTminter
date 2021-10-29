@@ -1,0 +1,11 @@
+{
+    "type": "all",
+    "scripts":
+    [
+      {
+        "type": "before",
+        "slot": 41109185
+      }
+      
+    ]
+  }
