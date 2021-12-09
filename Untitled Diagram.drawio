@@ -1,1 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T19:32:34.315Z" agent="5.0 (X11)" version="15.9.4" etag="88_VR3w2iX_-PKuax9y_" type="github"><diagram id="x0wavuvYVmliGZxf4u4O">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T20:02:05.875Z" agent="5.0 (X11)" etag="FCc_7HCK-YY5U6Xy_3Ks" version="15.9.4" type="github" pages="2">
+  <diagram id="x0wavuvYVmliGZxf4u4O" name="Page-1">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="700" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-2" value="&lt;div&gt;&lt;font size=&quot;3&quot;&gt;LANDING PAGE&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="45" width="630" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-3" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="95" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-5" value="Planet overview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="95" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-6" value="Hangar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="95" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-7" value="Defenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="95" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="78.75" width="580" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-11" value="&lt;div&gt;Landing Page with description of the game:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The game is based on spacial domination, each planet has own characteristics that Allow to Stake Recourses in more eficient way.. the recourses for spacial domination may be:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ETH: a new elemental particle that is used for ships and robots in an eficiently use of nuclear fusion energy. Every builging of a ship or whatever needs ETH.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ti :&amp;nbsp; Titanium It is used to build ships and robot and mines, mines are smart contracts that allows to fo staking of minerals&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HIDROGEN: It is the fuel used in nuclear fusion.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WATER?: In spacial quest the water is needed for organic life, since it is scarse in space it might be a good recourse to copete for? it will be needed in order to do.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-12" value="Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="87.5" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-15" value="Market-place" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="95" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_B8cVllVc_9CT8_eGlBB-15" target="_B8cVllVc_9CT8_eGlBB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="700" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-18" value="&lt;div&gt;PLANET OVERVIEW&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="615" width="630" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-19" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="665" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-20" value="Planet overview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="665" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-21" value="Hangar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="665" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-22" value="Defenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="665" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="648.75" width="580" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-24" value="&lt;div&gt;Fisical description of the Planet ... and its Characteristics, the Characteristics of each planet will allow each player to generate more staking rewards of EACH resource. based on each planet charactheristics.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Each planet Should start with a small colony enought for building some mines, but we will need to expand the planet habitable space in order to have more defences or more mines.. untill we fill the planet limit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It would be super nice that each playar can go VR in each colonie of their planet&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="729" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-25" value="Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="657.5" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-26" value="Market-place" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="665" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_B8cVllVc_9CT8_eGlBB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_B8cVllVc_9CT8_eGlBB-26" target="_B8cVllVc_9CT8_eGlBB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="q4Qw8KQmxWbuAiHMnFu0" name="Page-2">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="vhnGncKAlGTVEXl-8End-0" />
+        <mxCell id="vhnGncKAlGTVEXl-8End-1" parent="vhnGncKAlGTVEXl-8End-0" />
+        <mxCell id="sMoASRVFGYQn81j9IKfk-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="100" y="20" width="700" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-1" value="&lt;div&gt;Hangar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="140" y="35" width="630" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-2" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="190" y="85" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-3" value="Planet overview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="280" y="85" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-4" value="Hangar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="380" y="85" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-5" value="Defenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="460" y="85" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="180" y="68.75" width="580" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="210" y="149" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-8" value="Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="690" y="77.5" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-9" value="Market-place" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="550" y="85" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vhnGncKAlGTVEXl-8End-1" source="sMoASRVFGYQn81j9IKfk-9" target="sMoASRVFGYQn81j9IKfk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="230" y="160" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-12" value="&lt;font size=&quot;3&quot;&gt;192 H&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="250" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-13" value="&lt;font size=&quot;3&quot;&gt;2 ETH&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="530" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-14" value="&lt;font size=&quot;3&quot;&gt;300 Ti&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="380" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-15" value="Display with option of various ships to build.. Normal Ships might not be NFT but coins.. ok Click on each ships we Build the Ship &quot;Mint ERC20 Token&quot; each mint cost&amp;nbsp; recourses" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="260" y="220" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-16" value="Display Showing wich ships are being build... We can not build all ships at the same time!!! we must delay their building !" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="515" y="220" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="80" y="550" width="700" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-18" value="&lt;div&gt;Defenses&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="120" y="565" width="630" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-19" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="170" y="615" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-20" value="Planet overview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="260" y="615" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-21" value="Hangar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="360" y="615" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-22" value="Defenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="440" y="615" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="160" y="598.75" width="580" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="190" y="679" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-25" value="Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="670" y="607.5" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-26" value="Market-place" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="530" y="615" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vhnGncKAlGTVEXl-8End-1" source="sMoASRVFGYQn81j9IKfk-26" target="sMoASRVFGYQn81j9IKfk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="210" y="690" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-29" value="&lt;font size=&quot;3&quot;&gt;192 H&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="230" y="700" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-30" value="&lt;font size=&quot;3&quot;&gt;2 ETH&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="510" y="700" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-31" value="&lt;font size=&quot;3&quot;&gt;300 Ti&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="360" y="700" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-32" value="Display with option of various defenses to build.. Normal Ships might not be NFT but coins.. ok Click on each ships we Build the Ship &quot;Mint ERC20 Token&quot; each mint cost&amp;nbsp; recourses" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="240" y="750" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sMoASRVFGYQn81j9IKfk-33" value="Display Showing wich defenses&amp;nbsp; are being build... We can not build all ships at the same time!!! we must delay their building !" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;" vertex="1" parent="vhnGncKAlGTVEXl-8End-1">
+          <mxGeometry x="495" y="750" width="120" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
